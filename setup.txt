@@ -4,4 +4,6 @@ cd ...
 
 chmod 777 *
 
-python 
+python lupinosint777v1.py
+
+/help = commands
