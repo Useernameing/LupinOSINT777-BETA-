@@ -1,0 +1,7 @@
+git clone https://github.com/Useernameing/LupinOSINT777-BETA-.git
+
+cd ...
+
+chmod 777 *
+
+python 
